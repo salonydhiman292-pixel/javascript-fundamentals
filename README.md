@@ -17,3 +17,4 @@ focused on building strong fundamentals and interview readiness.
 ## Learning Log
 - Day 1: JavaScript basics, variables, operators
 - Day 2: Strings, string methods, conditionals
+- Day 3: Array basics
