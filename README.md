@@ -19,4 +19,6 @@ focused on building strong fundamentals and interview readiness.
 - Day 2: Strings, string methods, conditionals
 - Day 3: Array basics
 - Day 4: Arrays fundamentals including creation, mutability, common methods, references, and nested arrays
+- Day 5: Loops (for, while, for...of), nested loops, array iteration, break, and JS-only mini projects
+
 
